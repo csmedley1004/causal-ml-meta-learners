@@ -1,0 +1,19 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Local data / outputs
+data/
+outputs/
+*.csv
+*.png
